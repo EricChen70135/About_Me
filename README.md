@@ -7,14 +7,14 @@
 <li>Mobile : 0921752020</li>
 </ul>
 <h1>技能</h1>
-<h2 style="border-bottom:0px;">HTML5 / CSS3</h2>
+<h2>HTML5 / CSS3</h2>
 <ul>
 <li>HTML/CSS 瞭解 HTML 語意。</li>
 <li>能夠使用 CSS 做出網頁排版與 RWD 響應式設計。</li>
 <li>瞭解 CSS3 的 Animate、transform 跟 transition。</li>
 <li>使用 SASS / SCSS 規劃 Web layout 架構。</li>
 </ul>
-<h2 style="border-bottom:0px;">Javascript / Framework</h2>
+<h2>Javascript / Framework</h2>
 <ul>
 <li>Angular - 有小小研究，製作出加入購物車的資料，以及購物車清單排列。</li>
 <li>BootStrap - 用過 BootStrap 幫客戶快速製作網站。</li>
